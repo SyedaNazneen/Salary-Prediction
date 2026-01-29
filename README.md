@@ -7,7 +7,6 @@ This project demonstrates the end-to-end deployment of a Machine Learning model.
 
 ## 🚀 Key Features
 - **Model Persistence:** Uses a pre-trained `SLR.pkl` file for instant predictions.
-- **Currency Localization:** Automatically converts and formats predictions into Indian Rupees (₹).
 - **Responsive Design:** Clean, user-friendly interface optimized for web browsers.
 - **Robust Error Handling:** Built-in checks for invalid inputs.
 
@@ -15,5 +14,6 @@ This project demonstrates the end-to-end deployment of a Machine Learning model.
 - **Language:** Python 3.x
 - **Libraries:** Scikit-Learn, NumPy, Flask,pickle
 - **Frontend:** HTML5
+
 
 
