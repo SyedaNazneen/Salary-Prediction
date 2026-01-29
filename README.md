@@ -13,6 +13,7 @@ This project demonstrates the end-to-end deployment of a Machine Learning model.
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3.x
-- **Libraries:** Scikit-Learn, NumPy, Flask
-- **Frontend:** HTML5, CSS3
+- **Libraries:** Scikit-Learn, NumPy, Flask,pickle
+- **Frontend:** HTML5
+
 
